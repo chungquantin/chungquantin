@@ -13,7 +13,7 @@
 
 ## GitHub Stats
 
-![Chase Chung's github stats](https://github-readme-stats.vercel.app/api?username=chungquantin&show_icons=true&theme=vue-dark)
+![Chase Chung's github stats](https://github-readme-stats.vercel.app/api?username=chungquantin&show_icons=true&theme=vue-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://codeSTACKr.com
 [facebook]: https://twitter.com/codeSTACKr
