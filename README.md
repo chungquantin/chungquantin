@@ -1,4 +1,4 @@
-### Hi there 👋
+### What are you up to? <img src="https://media.giphy.com/media/RT7aITJt2BgUo/giphy.gif" />
 
 <!--
 **chungquantin/chungquantin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
