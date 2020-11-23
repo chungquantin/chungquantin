@@ -1,5 +1,5 @@
 ### Goodbye World! 
-<img src="https://media.giphy.com/media/RT7aITJt2BgUo/giphy.gif" height="100px" />
+<img src="https://media.giphy.com/media/RT7aITJt2BgUo/giphy.gif" height="200px" />
 
 <!--
 **chungquantin/chungquantin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
