@@ -1,5 +1,6 @@
 ### Goodbye World! 
 <img src="https://media.giphy.com/media/RT7aITJt2BgUo/giphy.gif" height="200px" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungquantin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **chungquantin/chungquantin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
