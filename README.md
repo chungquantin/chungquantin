@@ -1,4 +1,4 @@
-### **[Chase Me On The Web][website] **
+**[Chase Me On The Web][website]** 
 [![Website](https://img.shields.io/website?label=COTW.com&style=for-the-badge&url=https%3A%2F%cotw.com)](https://codestackr.com)
 
 <br/>
