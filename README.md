@@ -2,7 +2,7 @@
 
 <br/>
 
-![Chase Chung's github stats](https://github-readme-stats.vercel.app/api?username=chungquantin&show_icons=true&theme=vue-dark) 
+![Chase Chung's github stats](https://github-readme-stats.vercel.app/api?username=chungquantin&show_icons=true&theme=radical) 
 
 I'm an introvert and a tech enthusiast who chasing after technologies. Aside from the developer title, I love reading and designing. Therefore, I also have some skills in video editting.
 
