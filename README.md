@@ -2,7 +2,7 @@
 I'm an introvert and a tech enthusiast who chasing after technologies. Aside from the developer title, I love reading and designing. Therefore, I also have some skills in video editting.
 
 
-[![Website](https://img.shields.io/website?label=GócCủaChung&style=for-the-badge&url=https%3A%2F%GócCủaChung)](https://goccuachung.netlify.app/)
+[![Website](https://img.shields.io/website?label=GócCủaChung&style=for-the-badge&url=https%3A%2F%goccuachung.netlify.app)](https://goccuachung.netlify.app/)
 
 <br/>
 
