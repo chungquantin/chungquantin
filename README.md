@@ -11,6 +11,6 @@ I'm an introvert and a tech enthusiast who chasing after technologies. Aside fro
 
 [website]: https://goccuachung.netlify.com
 [facebook]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://youtube.com/
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
