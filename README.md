@@ -17,14 +17,13 @@
          <img style="margin: 10px" alt="JavaScript" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
           <img style="margin: 10px" alt="Typescript"height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/typescript/typescript.png" />
           <img style="margin: 10px" alt="React" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-            <img style="margin: 10px" alt="Angular" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/angular/angular.png" />
             <img style="margin: 10px" alt="GraphQL" height="50" src="https://raw.githubusercontent.com/rohan-varma/rohan-blog/gh-pages/images/graphql.png" />
             <img style="margin: 10px" alt="Apollo" height="50" src="https://dimitr.im/static/b876b338c35d14291bff2641e50262b6/ff9b8/apollo.png" />  
             <img style="margin: 10px" alt="Node.js" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
             <img style="margin: 10px"  alt="Express" height="50" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/express.png"/>  
-            <img style="margin: 10px" alt="Nest.js" height="50" src="https://habrastorage.org/getpro/habr/post_images/d11/98b/ac8/d1198bac8e4ced0d89d5e5983061f418.png" />
             <img style="margin: 10px" alt="SQL" height="50" src="https://www.zeluslugi.ru/upload/news/terms20191115-1.png" />
-        </div></td><td valign="top" width="50%">
+        </div></td>
+<!--     <td valign="top" width="50%">
         <div align="center">
                 <h6><b>DevOps toolchain</b></h6>
             </div>
@@ -39,19 +38,16 @@
             <img style="margin: 10px" src="https://i.pinimg.com/originals/32/49/3a/32493aea1ed976cebf93364be225a2f8.png" alt="CI/CD" height="50"/> 
             <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" height="50" />  
         </div>
-    </td>
+    </td> -->
 </tr></table>  
 <hr/>
 
 <div align="center">
     <h6> <b> Connect with me </b> </h6>
-       <a href="https://www.linkedin.com/in/rebiss/" target="blank" style="text-decoration: none">
+       <a href="https://www.linkedin.com/in/tin-chung-36297a167/" target="blank" style="text-decoration: none">
          <img height="50" src="https://eaes.eu/wp-content/uploads/2017/05/linkedin-logo.png" alt="Linkedin"/>
      </a> 
-     <a href="https://codepen.io/rebiss" target="blank" style="text-decoration:none">
-        <img height="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/59_Codepen-512.png"/>
-     </a>
-     <a href="https://medium.com/@rebiss" target="blank" style="text-decoration: none">
-       <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-512.png" />
+     <a href="https://goccuachung.netlify.app/" target="blank" style="text-decoration: none">
+       <img height="50" src="https://goccuachung.netlify.app/logo.svg" />
       </a>
 </div>  
