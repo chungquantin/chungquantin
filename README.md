@@ -40,8 +40,6 @@
         </div>
     </td>
 </tr></table>  
-<hr/>
-
 <div align="center">
     <h6> <b> Connect with me </b> </h6>
        <a href="https://www.linkedin.com/in/tin-chung-36297a167/" target="blank" style="text-decoration: none">
