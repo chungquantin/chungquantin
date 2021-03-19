@@ -2,7 +2,7 @@
     <img src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47h8lrghkxrh9eiwypjvjxoav4n0kvm68pymgxu6yy&rid=giphy.gif" width="100%">
       <br />
 <a href="https://github.com/chungquantin/chungquantin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chungquantin&&theme=chartreuse-dark&show_icons=true&langs_count=15" width="100%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chungquantin&&theme=chartreuse-dark&show_icons=true&langs_count=5" />
 </a>
 </div>
 
