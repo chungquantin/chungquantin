@@ -14,7 +14,7 @@
 </div>
 
 <table><tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
         <div align="center">
            <h6> <b> Full Stack </b> </h6>
         </div>
@@ -28,7 +28,7 @@
             <img style="margin: 10px"  alt="Express" height="50" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/express.png"/>  
             <img style="margin: 10px" alt="SQL" height="50" src="https://www.zeluslugi.ru/upload/news/terms20191115-1.png" />
         </div></td>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
         <div align="center">
                 <h6><b>DevOps toolchain</b></h6>
             </div>
