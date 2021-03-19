@@ -7,8 +7,8 @@
         <img width="175px" src="https://komarev.com/ghpvc/?username=chungquantin&color=24292E">
     </a>
     <br />
-<a href="https://github.com/walczy/walczy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walczy&&theme=chartreuse-dark&show_icons=true&langs_count=15" />
+<a href="https://github.com/chungquantin/chungquantin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chungquantin&&theme=chartreuse-dark&show_icons=true&langs_count=15" />
 </a>
 </div>
 
