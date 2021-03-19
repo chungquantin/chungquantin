@@ -1,15 +1,16 @@
 <div align="center">
     <img src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47h8lrghkxrh9eiwypjvjxoav4n0kvm68pymgxu6yy&rid=giphy.gif" width="300px">
+      <br />
+<a href="https://github.com/chungquantin/chungquantin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chungquantin&&theme=chartreuse-dark&show_icons=true&langs_count=15" />
+</a>
 </div>
 
 <div align="center" style="margin: 40px 0">
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img width="175px" src="https://komarev.com/ghpvc/?username=chungquantin&color=24292E">
     </a>
-    <br />
-<a href="https://github.com/chungquantin/chungquantin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chungquantin&&theme=chartreuse-dark&show_icons=true&langs_count=15" />
-</a>
+  
 </div>
 
 <table><tr>
