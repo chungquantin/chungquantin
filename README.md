@@ -5,7 +5,7 @@
 
 <div align="center" style="margin: 60px 0">
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
-        <img width="175px" src="https://komarev.com/ghpvc/?username=chungquantin&color=24292E">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=chungquantin&color=ffffff">
     </a>
   
 </div>
