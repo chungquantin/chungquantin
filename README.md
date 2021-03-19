@@ -41,10 +41,6 @@
         </div>
     </td>
 </tr></table>  
-<div align="center">
-    <img src="https://media1.giphy.com/media/d6KI49l3WuAJ9zGTab/giphy.gif?cid=ecf05e471kvk49qsz3pn4p7aqwyy57zp0qinjlgfzfa2swuo&rid=giphy.gif" width="100%">
-
-</div>
 <div align="center" style="margin: 60px 0">
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img width="175px" src="https://komarev.com/ghpvc/?username=chungquantin&color=78db8d">
