@@ -6,6 +6,10 @@
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img width="175px" src="https://komarev.com/ghpvc/?username=chungquantin&color=24292E">
     </a>
+    <br />
+<a href="https://github.com/walczy/walczy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walczy&&theme=chartreuse-dark&show_icons=true&langs_count=15" />
+</a>
 </div>
 
 <table><tr>
