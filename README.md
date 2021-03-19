@@ -3,12 +3,6 @@
 
 </div>
 
-<div align="center" style="margin: 60px 0">
-    <a href="https://github.com/antonkomarev/github-profile-views-counter">
-        <img width="175px" src="https://komarev.com/ghpvc/?username=chungquantin&color=78db8d">
-    </a>
-  
-</div>
 
 <table><tr>
       <td valign="top" width="30%">
@@ -47,6 +41,12 @@
         </div>
     </td>
 </tr></table>  
+<div align="center" style="margin: 60px 0">
+    <a href="https://github.com/antonkomarev/github-profile-views-counter">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=chungquantin&color=78db8d">
+    </a>
+  
+</div>
 <div align="center">
     <h6> <b> Connect with me </b> </h6>
        <a href="https://www.linkedin.com/in/tin-chung-36297a167/" target="blank" style="text-decoration: none">
