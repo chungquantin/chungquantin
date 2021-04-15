@@ -8,7 +8,7 @@
       <td valign="top" width="30%">
         <div align="center">
             <a href="https://github.com/chungquantin/chungquantin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chungquantin&&theme=chartreuse-light&show_icons=true&langs_count=5" width="100%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chungquantin&&theme=chartreuse-light&show_icons=true&langs_count=10" width="100%" />
 </a>
             </div>
          </td>
