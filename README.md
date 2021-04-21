@@ -1,7 +1,15 @@
-<div align="center">
-    <img src="https://media3.giphy.com/media/jVBoKiOojVGRMkid4W/giphy.gif?cid=ecf05e47m6vq1sqnwqkljrt9c889b90m209zy0m1b0reto9i&rid=giphy.gif" width="100%">
+**_"It's OK to have your eggs in one basket as long as you control what happens to that basket." - Elon Musk_**
 
-</div>
+**Who am I?**
+
+https://goccuachung.netlify.app/posts/chung-la-ai
+
+
+**Project Bucket: **
+
+- 🚗 DriveX (An Uber simulator with visualization): https://drivex-rmit.netlify.app/
+- 🕹 FLEG (A LAMPstack shopping store): https://fleg.herokuapp.com/
+- 🎬 Netflix clone: https://netflix-clone-cc.netlify.app/
 
 <div align="center" style="margin: 60px 0">
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
