@@ -5,7 +5,7 @@
 https://goccuachung.netlify.app/posts/chung-la-ai
 
 
-**Project Bucket: **
+**Project Bucket 💻**
 
 - 🚗 DriveX (An Uber simulator with visualization): https://drivex-rmit.netlify.app/
 - 🕹 FLEG (A LAMPstack shopping store): https://fleg.herokuapp.com/
