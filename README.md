@@ -2,7 +2,7 @@
 
 **Who am I?**
 
-www.goccuacchung.com//chung-la-ai
+www.goccuacchung.com/chung-la-ai
 
 
 **Project Bucket 💻**
