@@ -2,7 +2,7 @@
 
 **Who am I?**
 
-www.goccuacchung.com/chung-la-ai
+www.goccuachung.com/chung-la-ai
 
 
 **Project Bucket 💻**
@@ -22,7 +22,7 @@ www.goccuacchung.com/chung-la-ai
        <a href="https://www.linkedin.com/in/tin-chung-36297a167/" target="blank" style="text-decoration: none">
          <img height="50" src="https://eaes.eu/wp-content/uploads/2017/05/linkedin-logo.png" alt="Linkedin"/>
      </a> 
-     <a href="https://www.goccuacchung.com/" target="blank" style="text-decoration: none">
+     <a href="https://www.goccuachung.com" target="blank" style="text-decoration: none">
        <img height="50" src="https://goccuachung.netlify.app/logo.svg" />
       </a>
 </div>  
