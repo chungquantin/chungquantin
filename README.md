@@ -2,15 +2,6 @@
 
 **Read my blogs at:** www.goccuachung.com
 
-**CryptoFam**
-
-**My Show Off Projects 💻**
-
-- 🚗 DriveX (An Uber simulator with visualization): https://drivex-rmit.netlify.app/
-- 🕹 FLEG (A LAMPstack shopping store): https://fleg.herokuapp.com/
-- 🎬 Netflix clone: https://netflix-clone-cc.netlify.app/
-- 🍜·Ramen App (A fast-paced social networking service): https://github.com/RamenTeam/ramen
-
 <div align="center" style="margin: 60px 0">
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img width="175px" src="https://komarev.com/ghpvc/?username=chungquantin&color=fce205">
