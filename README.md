@@ -10,7 +10,7 @@
 </div>
 <div align="center" style="margin: 60px 0">
     <a href="http://github-readme-streak-stats.herokuapp.com?user=chungquantin&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-           <img width="175px" src="http://github-readme-streak-stats.herokuapp.com?user=chungquantin&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+           <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=chungquantin&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
     </a>
 </div>
 <div align="center">
