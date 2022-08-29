@@ -1,6 +1,8 @@
 **_"It's OK to have your eggs in one basket as long as you control what happens to that basket." - Elon Musk_**
 
-**Read my blogs at:** www.goccuachung.com
+**Read my blogs at:** 
+- Personal website: www.goccuachung.com
+- DEV.to: https://dev.to/chungquantin
 
 <div align="center" style="margin: 60px 0">
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
