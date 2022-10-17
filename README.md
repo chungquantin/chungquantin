@@ -4,12 +4,6 @@
 - Personal website: www.goccuachung.com
 - DEV.to: https://dev.to/chungquantin
 
-<div align="center" style="margin: 60px 0">
-    <a href="https://github.com/antonkomarev/github-profile-views-counter">
-        <img width="175px" src="https://komarev.com/ghpvc/?username=chungquantin&color=fce205">
-    </a>
-  
-</div>
 <div align="center">
     <h6> <b> Connect with me </b> </h6>
        <a href="https://www.linkedin.com/in/tin-chung-36297a167/" target="blank" style="text-decoration: none">
