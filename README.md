@@ -15,6 +15,9 @@
        <a href="https://www.twitter.com/chasechung111" target="blank" style="text-decoration: none">
        <img height="50" src="https://user-images.githubusercontent.com/56880684/203107639-f2719215-16c7-494c-8ebf-c44cf5d07136.png" />
       </a>
+     <a href="https://devpost.com/chungquantin" target="blank" style="text-decoration: none">
+       <img height="50" src="https://user-images.githubusercontent.com/56880684/203208331-597aad2e-f523-450d-8d4c-6d444047e159.png" />
+      </a>
 </div>  
 
 
