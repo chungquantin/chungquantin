@@ -18,6 +18,10 @@
      <a href="https://devpost.com/chungquantin" target="blank" style="text-decoration: none">
        <img height="50" src="https://user-images.githubusercontent.com/56880684/203208331-597aad2e-f523-450d-8d4c-6d444047e159.png" />
       </a>
+      <a href="https://www.producthunt.com/@chase_chung" target="blank" style="text-decoration: none">
+       <img height="50" src="https://user-images.githubusercontent.com/56880684/203977322-b2d736b6-ccb9-47fd-a985-8d6d074a6633.png" />
+      </a>
+    
 </div>  
 
 
