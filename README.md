@@ -1,3 +1,5 @@
+As a highly motivated and enthusiastic individual, I am a dedicated blockchain researcher and system engineer with a passion for Rust system language and low-level programming. Through my studies and professional experience, I have developed a strong set of technical skills in Assembly, C++, Rust, and blockchain technologies. I am committed to staying current with the latest industry developments and advancements in technology. Furthermore, I am a strong collaborator and enjoy contributing to open-source projects. I am eager to apply my skills and knowledge to drive innovation and make a positive impact in the field of blockchain and system engineering.
+
 <div align="center">
     <h6> <b> Connect with me </b> </h6>
      <a href="https://dev.to/chungquantin" target="blank" style="text-decoration: none">
