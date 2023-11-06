@@ -1,4 +1,4 @@
-[![An image of @chungquantin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chungquantin)](https://holopin.io/@chungquantin)
+
 <div align="center">
 <!--     <h6> <b> Road to my dream </b> </h6>
     <a href="[https://dev.to/chungquantin](https://leetcode.com/chungquantin/)" target="blank" style="text-decoration: none">
