@@ -1,10 +1,16 @@
+## Hi, I'm Tin Chung.
+### Who am I?
+- I am a co-founder of [Amazely](https://amazely.co) - the AI marketing assistant for small businesses, we are on the way to reducing the marketing costs of business owners through technology.
+- I am building a community for low-level programmers - [TheLowLevelers](https://lowlevelers.com)
+- I am a former lead engineer, and co-founder of [Snowflake Network](https://snowflake.so) - a multi-signature wallet and onchain automated scheduling solution.
+- I am an indie hacker who built multiple products [TabHub](https://tabhub.io), [UpChart](https://upchart.co)
+
 
 <div align="center">
 <!--     <h6> <b> Road to my dream </b> </h6>
     <a href="[https://dev.to/chungquantin](https://leetcode.com/chungquantin/)" target="blank" style="text-decoration: none">
        <img height="30" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fchungquantin&logo=leetcode&logoColor=yellow" alt="leetcode"/>
      </a>  -->
-    I don't know you, you don't know me, but you are awesome
     <h6> <b> Connect with me </b> </h6>
      <a href="https://dev.to/chungquantin" target="blank" style="text-decoration: none">
        <img height="50" src="https://user-images.githubusercontent.com/56880684/203106427-2f9fcce5-a11b-4a9e-ab58-699723accdae.png" alt="DEV.to"/>
