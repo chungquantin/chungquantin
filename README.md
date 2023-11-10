@@ -2,8 +2,9 @@
 ### Who am I?
 - I am a co-founder of [Amazely](https://amazely.co) - the AI marketing assistant for small businesses, we are on the way to reducing the marketing costs of business owners through technology.
 - I am building a community for low-level programmers - [TheLowLevelers](https://lowlevelers.com)
-- I am a former lead engineer, and co-founder of [Snowflake Network](https://snowflake.so) - a multi-signature wallet and onchain automated scheduling solution.
+- I am a former lead engineer, and co-founder of [Snowflake Network](https://snowflake.so) - a multi-signature wallet and on-chain automated scheduling solution.
 - I am an indie hacker who built multiple products [TabHub](https://tabhub.io), [UpChart](https://upchart.co)
+- I write blogs about my personal life and programming journey at [Tin Chung's blog](https://goccuachung.com) (ex Góc Của chung)
 
 
 <div align="center">
