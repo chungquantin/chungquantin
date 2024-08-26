@@ -1,4 +1,7 @@
 ## Hi, I'm Tin Chung.
+
+<img width="1289" alt="Screenshot 2024-08-26 at 11 40 53" src="https://github.com/user-attachments/assets/aef037a1-411e-4e74-94d8-2cc14c3999d7">
+
 ### Who am I?
 - I am a co-founder of [Amazely](https://amazely.co) - the AI marketing assistant for small businesses, we are on the way to reducing the marketing costs of business owners through technology.
 - I am building a community for Web3.0 builders on Polkadot - [OpenGuild](https://openguild.wtf)
