@@ -8,7 +8,7 @@ Find all information about me in: https://www.chungquantin.com
 - I am a former lead engineer, and co-founder of [Snowflake Network](https://snowflake.so) - a multi-signature wallet and on-chain automated scheduling solution.
 - I am an indie hacker who built multiple products [TabHub](https://tabhub.io) (stopped)
 - I tweet about my personal life and programming journey at [Tin Chung's X](https://x.com/chungquantin)
-- I am an engineer in [R0GUE IO](https://r0gue.io/) working with Substrate and Rust. 
+- I am an engineer at [R0GUE IO](https://r0gue.io/) working with Substrate and Rust. 
 
 <div align="center">
 <!--     <h6> <b> Road to my dream </b> </h6>
