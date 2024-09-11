@@ -1,6 +1,6 @@
 ## Hi, I'm Tin Chung.
 
-Find all information about me in: https://chungquantin.com
+Find all information about me in: https://www.chungquantin.com
 
 ### Who am I?
 - I am a co-founder of [Amazely](https://amazely.co) - the AI marketing assistant for small businesses, we are on the way to reducing the marketing costs of business owners through technology.
