@@ -1,4 +1,4 @@
-## Hi, I'm Tin Chung.
+## Hi, I'm Tin Chung (chungquantin.base.eth).
 
 Find all information about me in: https://www.chungquantin.com
 
