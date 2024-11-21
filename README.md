@@ -1,12 +1,12 @@
-## Hi, I'm Tin Chung (chungquantin.base.eth).
 
-Find all information about me in: https://www.chungquantin.com
 
 <div align="center">
 <!--     <h6> <b> Road to my dream </b> </h6>
     <a href="[https://dev.to/chungquantin](https://leetcode.com/chungquantin/)" target="blank" style="text-decoration: none">
        <img height="30" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fchungquantin&logo=leetcode&logoColor=yellow" alt="leetcode"/>
      </a>  -->
+    <h2> <b> GM, I'm Tin Chung </b></h2>
+    <h3> <b> www.chungquantin.com </b></h3>
     <h6> <b> Connect with me </b> </h6>
      <a href="https://dev.to/chungquantin" target="blank" style="text-decoration: none">
        <img height="50" src="https://user-images.githubusercontent.com/56880684/203106427-2f9fcce5-a11b-4a9e-ab58-699723accdae.png" alt="DEV.to"/>
