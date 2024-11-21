@@ -2,14 +2,6 @@
 
 Find all information about me in: https://www.chungquantin.com
 
-### Who am I?
-- I am a co-founder of [Amazely](https://amazely.co) - the AI marketing assistant for small businesses, we are on the way to reducing the marketing costs of business owners through technology.
-- I am building a community for Web3.0 builders on Polkadot - [OpenGuild](https://openguild.wtf)
-- I am a former lead engineer, and co-founder of [Snowflake Network](https://snowflake.so) - a multi-signature wallet and on-chain automated scheduling solution.
-- I am an indie hacker who built multiple products [TabHub](https://tabhub.io) (stopped)
-- I tweet about my personal life and programming journey at [Tin Chung's X](https://x.com/chungquantin)
-- I am an engineer at [R0GUE IO](https://r0gue.io/) working with Substrate and Rust. 
-
 <div align="center">
 <!--     <h6> <b> Road to my dream </b> </h6>
     <a href="[https://dev.to/chungquantin](https://leetcode.com/chungquantin/)" target="blank" style="text-decoration: none">
