@@ -2,6 +2,9 @@
 
 My deepest admiration lies with the open source movement—a testament to humanity's capacity for collaborative creation and the democratization of knowledge itself.
 
+### Media
+- 🧑‍🚀 [The Tech Frontier](https://thetechfrontier.io): Read the news and follow the latest innovations about AI, robotics, edge computing, and GPU.
+
 ### Projects
 
 - 🗃️ [edma](https://github.com/chungquantin/edma): EDMA is an interactive terminal app for managing multiple embedded database systems at once with powerful byte deserializer support.
